@@ -2,6 +2,7 @@
 
 Why do we create branches?
 - So we can make changes to the code without disrupting other people's work.
+
 How do we create and use branches?
 - Click create branch.
 - Make changes on the branch and commit to log changes of the file.
